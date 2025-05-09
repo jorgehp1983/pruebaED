@@ -1,3 +1,4 @@
 texto de prueba con git
 primera modificacion
 segunda modificacion
+prueba de fusuion conflictiva desde master
